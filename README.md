@@ -62,7 +62,7 @@ The PID controller reads temperatures via IPMI, calculates the appropriate fan s
 
 ```bash
 # 1. Clone and navigate to project
-git clone [<repository-url>](https://github.com/SanabilQureshi/Predictive-Fan-Control-System) && cd Predictive-Fan-Control-System
+git clone https://github.com/SanabilQureshi/Predictive-Fan-Control-System.git && cd Predictive-Fan-Control-System
 
 # 2. Configure IPMI credentials
 
